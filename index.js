@@ -15,22 +15,3 @@ const matchName = function(drivers, string) {
     return result
 }
 
-const poopers = [
-    {
-      name: 'Bobby',
-      hometown: 'Pittsburgh' },
-    {
-      name: 'Sammy',
-      hometown: 'New York' } ,
-    {
-      name: 'Sally',
-      hometown: 'Cleveland' },
-    {
-      name: 'Annette',
-      hometown: 'Los Angeles' },
-    {
-      name: 'Bobby',
-      hometown: 'Tampa Bay' }
-  ];
-
-  const notDrivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'bobby'];
